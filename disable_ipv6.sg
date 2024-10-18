@@ -1,4 +1,4 @@
-#!name=Disable IPV6
-#!desc=Disable IPV6
+#!name=disable_ipv6
+#!desc=disable_ipv6
 [General]
 ipv6 = false
