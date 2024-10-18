@@ -1,0 +1,4 @@
+#!name=Disable IPV6
+#!desc=Disable IPV6
+[General]
+ipv6 = false
