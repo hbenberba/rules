@@ -19,7 +19,7 @@
 // }
 
 if ($network?.wifi?.bssid === '3c:cd:57:fa:c7:0d') {
-    $done({ address: '192.168.31.148', ttl: 10 });
+    $done({ address: '192.168.31.150', ttl: 10 });
 } else {
     $done({});
 }
